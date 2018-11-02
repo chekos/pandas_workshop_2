@@ -1,2 +1,1 @@
-.dta.gz filter=lfs diff=lfs merge=lfs -text
 *.dta.gz filter=lfs diff=lfs merge=lfs -text
